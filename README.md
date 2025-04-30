@@ -34,9 +34,10 @@ The application uses a structured database to store:
 ![image](https://github.com/user-attachments/assets/f267809f-ae44-4832-aead-4297b213a32b)
 
 ---
-## 👩‍💻 Author
 
+## 👩‍💻 Author
 Developed by [sruthivellore](https://github.com/sruthivellore).
+
 ---
 
 *Career Builder: Make the right choice for your future.*
